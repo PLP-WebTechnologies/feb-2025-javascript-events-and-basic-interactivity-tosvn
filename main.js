@@ -1,13 +1,4 @@
-// let name = document.querySelector('#name')
-// let email = document.querySelector('#email')
-// let password = document.querySelector('#password')
 
-
-// function submit(name, email, password) {
-//     if (name.value == ''){
-//         alert('Please fill out respective fields')
-//     } else if (email.value)
-// }
 
 const form = document.getElementById('registrationForm');
 const nameInput = document.getElementById('name');
